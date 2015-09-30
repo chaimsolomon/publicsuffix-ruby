@@ -1140,7 +1140,7 @@ net.in
 org.in
 gen.in
 ind.in
-nic.in
+!nic.in
 ac.in
 edu.in
 res.in
@@ -6050,7 +6050,7 @@ perso.tn
 tourism.tn
 edunet.tn
 rnrt.tn
-rns.tn
+!rns.tn
 rnu.tn
 mincom.tn
 agrinet.tn
